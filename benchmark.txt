@@ -1,0 +1,18 @@
+=====Tweet Emotions Dataset=====
+Time taken to build inverted index: 0.09222626686096191
+Time taken to search: 0.0012993812561035156
+=====Legal Text Classification Dataset=====
+Time taken to build inverted index: 5.549209117889404
+Time taken to search for phrase: 0.03466200828552246
+=====Shopee Review Dataset=====
+Time taken to build inverted index: 20.161844968795776
+Time taken to search for phrase: 0.39845800399780273
+=====Legal Text Classification Dataset=====
+Time taken to build inverted index: 5.562047004699707
+Time taken to search for phrase: 0.005200862884521484
+=====Shopee Review Dataset=====
+Time taken to build inverted index: 20.104636907577515
+Time taken to search for phrase: 0.05624890327453613
+=====Tweet Emotions Dataset=====
+Time taken to build inverted index: 0.10825586318969727
+Time taken to search: 0.23035693168640137
